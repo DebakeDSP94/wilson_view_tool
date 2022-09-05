@@ -20,7 +20,9 @@ executing:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WilsonViewTool::Renderer.copyright 'Stuart Wilson', 'All rights reserved'
+```
 
 ## Development
 
