@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 2.6.0"
 
 
-  spec.metadata["source_code_uri"] = "Thttps://github.com/DebakeDSP94."
+  spec.metadata["source_code_uri"] = "https://github.com/DebakeDSP94."
   
 
   # Specify which files should be added to the gem when it is released.
